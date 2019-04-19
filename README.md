@@ -1,2 +1,2 @@
-# UCB_DATA_H7_SQL
-UC Berkeley Data Analytics: Homework 7 - SQL 
+# UC Berkeley Extension Data Analytics Program
+## Homework 7: SQL
